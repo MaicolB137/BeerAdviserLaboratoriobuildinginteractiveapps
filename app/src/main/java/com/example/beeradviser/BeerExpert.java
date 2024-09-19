@@ -15,9 +15,6 @@ public class BeerExpert {
         }else if (spinner.equals("Brown")) {
             proyectos.add("E. Brown Ale");
             proyectos.add("St. Bernardus Abt 12");
-        }else if (spinner.equals("Amber")) {
-            proyectos.add("Estrella Galicia");
-            proyectos.add("Brewdog Punk Ipa");
         }else if (spinner.equals("Dark")) {
             proyectos.add("Gulden Draak Russian Imperial Sout");
             proyectos.add("Rochefort 10");
